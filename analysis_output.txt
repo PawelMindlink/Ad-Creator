@@ -1,0 +1,26 @@
+﻿Loading Meta Data...
+Loading GA4 Data...
+
+--- TOP BY CONTRIBUTION PROFIT (META) ---
+    product_id                                                                        URL  Meta_Profit  Meta_Spend  Meta_Revenue   GA4_Revenue  GA4_ARPU
+38       12437  /12437-najlepszy-dziadek-jezdzi-traktorem-meska-koszulka-z-nadrukiem.html  2974.630732     3944.78      16590.40   1856.699997  3.691252
+18        1069                          /1069-koszulki-i-gadzety-dla-fanow-serialu-ranczo  2548.930122     6747.61      22289.95  36678.260004  5.682147
+509      37880  /37880-six-seven-67-dziecieca-koszulka-na-prezent-inspirowane-roblox.html  1438.657756     2945.19      10510.98   2298.589995  5.804520
+449      36550       /36550-six-seven-67-italian-brainrot-dziecieca-bluza-na-prezent.html   533.738390      747.11       3071.04  31331.820038  8.579359
+93       16031                           https://koszulkowy.pl/16031-dziadek-sp-z-oo.html   475.357415      228.22       1686.94      0.000000  0.000000
+
+--- TOP ORGANIC GEMS (HIGH GA4 REV, LOW META SPEND < 500) ---
+    product_id                                                                                                        URL   GA4_Revenue  GA4_ARPU  Meta_Spend  Meta_Profit
+353      35121                           /35121-wilkowyje-city-v2-dla-fanow-serialu-ranczo-meska-koszulka-na-prezent.html  30544.230014  4.801042        5.54    -5.540000
+386      35341                  /35341-z-laweczka-zadzierasz-ciulu-niemyty-dla-fanow-serialu-ranczo-kubek-na-prezent.html  10207.420029  5.028286       60.78    32.352439
+313      34053                    /34053-taka-moja-rola-wiedziec-michalowa-kubek-na-prezent-dla-fanow-serialu-ranczo.html   6977.510000  4.118955        0.42    -0.420000
+412      35630  /35630-swieca-o-zapachu-adamczychy-bez-andrzeja-swieczka-zapachowa-na-prezent-dla-fanow-serialu-1670.html   6469.759987  4.449629       13.13   -13.130000
+361      35145                  /35145-zeby-wilk-byl-syty-i-wilkowyje-city-dla-fanow-serialu-ranczo-kubek-na-prezent.html   6400.240011  2.834473        0.00     0.000000
+
+--- TOP CONVERSION POTENTIAL (HIGH ARPU, SESSIONS > 50) ---
+    product_id                                                                                                   URL   GA4_ARPU  GA4_Sessions  GA4_Revenue  Meta_Spend
+77       15349  /15349-nie-mam-czasu-musze-isc-do-moich-dziewczyn-krowy-meska-bluza-na-prezent-dla-hodowcy-krow.html  19.551852          54.0  1055.799998        0.00
+87       15735                                                             /15735-geralt-meska-bluza-na-prezent.html  17.396535         101.0  1757.049997        0.00
+350      35118                        /35118-wilkowyje-city-v2-dla-fanow-serialu-ranczo-damska-bluza-na-prezent.html  13.592105         114.0  1549.499999        0.00
+582       5257                                   /5257-kiedys-ciacho-dzisiaj-piernik-meska-koszulka-z-nadrukiem.html  13.573077         130.0  1764.500001        0.45
+606       5956                                            /5956-geralt-meska-koszulka-z-nadrukiem-5904508375507.html  12.811268         142.0  1819.200002        0.00

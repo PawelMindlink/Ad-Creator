@@ -1,0 +1,48 @@
+# Ad Creator - Git Ignore
+# Focus: Ignore heavy assets, Track Strategy & Config
+
+# --- Heavy Assets (DO NOT TRACK) ---
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.psd
+*.ai
+*.raw
+*.zip
+*.rar
+*.highres
+*.png
+*.jpg
+*.jpeg
+# Exception: Track small assets if needed (e.g. icons), but default to ignore for Ad Creator
+# !logo.png
+
+# --- System & Temp ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+tmp/
+temp/
+_archive/
+*.log
+
+# --- Cursor/IDE ---
+.idea/
+.vscode/
+*.swp
+
+# --- Dependencies ---
+node_modules/
+venv/
+__pycache__/
+
+# --- User Specific ---
+# Ignore strictly personal configs if any
+credentials.json
+.env
+
+# --- Keep These (Structure) ---
+# !.agent/
+# !Clients/
+# !Reports/

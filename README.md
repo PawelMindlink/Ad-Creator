@@ -23,15 +23,35 @@
 
 This project is organized as follows:
 
+- **`campaigns/`**: Top-level directory for all marketing pushes.
+  - `[YYYY-MM]_[CampaignName]/`: dedicated folder for each campaign (e.g., `2026-02_Round2_Concepts`).
+    - `[PROD_ID]_[ShortName]/`: Creative Unit for a specific product.
+      - `1x1/`: Square assets.
+      - `9x16/`: Vertical assets.
+      - `ad_kit.md`: **Single Source of Truth** for Copy, Links, and Strategy.
 - **`Clients/`**: Client-specific data and configuration.
-- **`Koszulkowy/`**: Analysis reports and data for the Koszulkowy brand.
-- **`Strategy/`**: Strategic analysis scripts and deep-dive tools.
-- **`campaigns/`**: Specific marketing pushes and ad sets.
-- **`assets/`**: Raw deliverables.
+- **`Koszulkowy/`**: Analysis reports and brand data.
+- **`Strategy/`**: Strategic analysis scripts.
+- **assets/**: Shared assets (logos, images, copy).
   - `images/`: Static banners.
-  - `videos/`: Raw footage and exports.
-  - `copy/`: Ad texts and headlines.
-- **`Reports/`**: Analysis output and performance reviews.
+  - `videos/`: Raw footage.
+  - `copy/`: Ad texts.
+  - `references/`: Inspiration and templates (e.g., PDFs, Swipe Files).
+
+## Asset Naming Convention
+
+All creative files must follow this strict format:
+
+`[PROD_ID]_[ShortName]_[Angle]_[Ratio]_[Version].[ext]`
+
+Example:
+`15735_GeraltBluza_UrbanWitcher_1x1_v1.png`
+
+- **PROD_ID**: Product ID from e-commerce platform.
+- **ShortName**: Readable product slug.
+- **Angle**: The creative concept (e.g., `SocialProof`, `Urban`).
+- **Ratio**: `1x1`, `9x16`, `4x5`.
+- **Version**: `v1`, `v2`, etc.
 
 ## Operation (How to use)
 
